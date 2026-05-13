@@ -1,0 +1,17 @@
+# Build
+build/
+cmake-build-*/
+CMakeLists.txt
+
+# Compiled
+*.o
+*.out
+*.exe
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.xcodeproj/
