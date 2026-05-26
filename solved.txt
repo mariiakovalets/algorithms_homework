@@ -7,7 +7,6 @@ Hash tables
     Easy: 1. Two Sum
     Medium: 128. Longest Consecutive Sequence
     Medium: 2043. Simple Bank System
-    Medium: 2244. Minimum Rounds to Complete All Tasks
 
 Greedy algorithms
     Medium: 11. Container With Most Water
